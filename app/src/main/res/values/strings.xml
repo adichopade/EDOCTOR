@@ -1,0 +1,324 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string-array name="symptom_name">
+        <item>none</item>
+        <item>abdomen acute</item>
+        <item>abdominal tenderness</item>
+        <item>abnormally hard consistency</item>
+        <item>abortion</item>
+        <item>abscess bacterial</item>
+        <item>absences finding</item>
+        <item>achalasia</item>
+        <item>agitation</item>
+        <item>air fluid level</item>
+        <item>alcohol binge episode</item>
+        <item>ambidexterity</item>
+        <item>angina pectoris</item>
+        <item>anorexia</item>
+        <item>anosmia</item>
+        <item>aphagia</item>
+        <item>apyrexial</item>
+    <item>arthralgia</item>
+    <item>ascites</item>
+    <item>asterixis</item>
+    <item>asthenia</item>
+    <item>ataxia</item>
+    <item>atypia</item>
+    <item>aura</item>
+    <item>bedridden</item>
+    <item>behavior hyperactive</item>
+    <item>blackout</item>
+    <item>bradycardia</item>
+    <item>bradykinesia</item>
+    <item>breakthrough pain</item>
+    <item>breath sounds decreased</item>
+    <item>breech presentation</item>
+    <item>bruit</item>
+    <item>burning sensation</item>
+    <item>cardiomegaly</item>
+    <item>cardiovascular event</item>
+    <item>cardiovascular finding</item>
+    <item>catatonia</item>
+    <item>catching breath</item>
+    <item>charleyhorse</item>
+    <item>chest discomfort</item>
+    <item>chest tightness</item>
+    <item>chill</item>
+    <item>cicatrisation</item>
+    <item>clonus</item>
+    <item>clumsiness</item>
+    <item>colic abdominal</item>
+    <item>consciousness clear</item>
+    <item>constipation</item>
+    <item>cough</item>
+    <item>cushingoid facies</item>
+    <item>cushingoid habitus</item>
+    <item>cyanosis</item>
+    <item>cystic lesion</item>
+    <item>debilitation</item>
+    <item>decompensation</item>
+    <item>decreased body weight</item>
+    <item>diarrhea</item>
+    <item>difficulty</item>
+    <item>difficulty passing urine</item>
+    <item>disequilibrium</item>
+    <item>distended abdomen</item>
+    <item>distress respiratory</item>
+    <item>disturbed family</item>
+    <item>dizziness</item>
+    <item>dizzy spells</item>
+    <item>drool</item>
+    <item>drowsiness</item>
+    <item>dysdiadochokinesia</item>
+    <item>dysesthesia</item>
+    <item>dyspnea</item>
+    <item>dyspnea on exertion</item>
+    <item>dysuria</item>
+    <item>ecchymosis</item>
+    <item>egophony</item>
+    <item>emphysematous change</item>
+    <item>energy increased</item>
+    <item>enuresis</item>
+    <item>erythema</item>
+    <item>estrogen use</item>
+    <item>exhaustion</item>
+    <item>extrapyramidal sign</item>
+    <item>extreme exhaustion</item>
+    <item>facial paresis</item>
+    <item>fall</item>
+    <item>fatigability</item>
+    <item>fatigue</item>
+    <item>fear of falling</item>
+    <item>fecaluria</item>
+    <item>feces in rectum</item>
+    <item>feeling hopeless</item>
+    <item>feeling strange</item>
+    <item>feeling suicidal</item>
+    <item>feels hot/feverish</item>
+    <item>fever</item>
+    <item>flare</item>
+    <item>flatulence</item>
+    <item>food intolerance</item>
+    <item>formication frail</item>
+    <item>gasping for breath</item>
+    <item>general discomfort</item>
+    <item>general unsteadiness</item>
+    <item>gravida</item>
+    <item>green sputum</item>
+    <item>groggy</item>
+    <item>guaiac positive</item>
+    <item>gurgle</item>
+    <item>haemoptysis</item>
+    <item>haemorrhage</item>
+    <item>hallucinations auditory</item>
+    <item>hallucinations visual</item>
+    <item>has religious belief</item>
+        <item>headache</item>
+        <item>heartburn</item>
+        <item>hematocrit decreased</item>
+        <item>hematuria</item>
+        <item>heme positive</item>
+        <item>hemianopsia homonymous</item>
+        <item>hemiplegia</item>
+        <item>hemodynamically stable</item>
+        <item>hepatosplenomegaly</item>
+        <item>hirsutism</item>
+        <item>history of - blackout</item>
+        <item>hoard</item>
+        <item>hoarseness</item>
+        <item>homelessness</item>
+        <item>hot flush</item>
+        <item>hydropneumothorax</item>
+        <item>hypercapnia</item>
+        <item>hyperemesis</item>
+        <item>hyperhidrosis disorder</item>
+        <item>hyperkalemia</item>
+        <item>hypersomnia</item>
+        <item>hypersomnolence</item>
+        <item>hypertonicity</item>
+        <item>hypoalbuminemia</item>
+        <item>hypokinesia</item>
+        <item>hypometabolism</item>
+        <item>hyponatremia</item>
+        <item>hypotension</item>
+        <item>hypothermia natural</item>
+        <item>hypotonic</item>
+        <item>hypoxemia</item>
+        <item>immobile</item>
+        <item>impaired cognition</item>
+        <item>intermenstrual heavy bleeding</item>
+        <item>intoxication</item>
+        <item>irritable mood</item>
+        <item>jugular venous distention</item>
+        <item>labored breathing</item>
+        <item>large-for-dates fetus</item>
+        <item>left atrial hypertrophy</item>
+        <item>lesion</item>
+        <item>lethargy</item>
+        <item>lightheadedness</item>
+        <item>lip smacking</item>
+        <item>loose associations</item>
+        <item>low back pain</item>
+        <item>lung nodule</item>
+        <item>malaise</item>
+        <item>mass in breast</item>
+        <item>mass of body structure</item>
+        <item>mediastinal shift</item>
+        <item>mental status changes</item>
+        <item>metastatic lesion</item>
+        <item>moan</item>
+        <item>monoclonal</item>
+        <item>mood depressed</item>
+        <item>moody</item>
+        <item>motor retardation</item>
+        <item>Murphys sign</item>
+        <item>muscle hypotonia</item>
+        <item>muscle twitch</item>
+        <item>myalgia</item>
+        <item>mydriasis</item>
+        <item>myoclonus</item>
+        <item>nasal flaring</item>
+        <item>nausea</item>
+        <item>neck stiffness</item>
+        <item>neologism</item>
+        <item>night sweat</item>
+        <item>nightmare</item>
+        <item>no status change</item>
+        <item>non productive cough</item>
+        <item>nonsmoker</item>
+        <item>numbness</item>
+        <item>numbness of hand</item>
+        <item>oliguria</item>
+        <item>orthopnea</item>
+        <item>orthostasis</item>
+        <item>out of breath</item>
+        <item>overweight</item>
+        <item>pain</item>
+        <item>pain abdominal</item>
+        <item>pain back</item>
+        <item>pain chest</item>
+        <item>pain neck</item>
+        <item>painful swallowing</item>
+        <item>pallor</item>
+        <item>palpitation</item>
+        <item>panic</item>
+        <item>pansystolic murmur</item>
+        <item>para 1</item>
+        <item>para 2</item>
+        <item>paralyse</item>
+        <item>paraparesis</item>
+        <item>paresis</item>
+        <item>paresthesia</item>
+        <item>passed stones</item>
+        <item>patient non compliance</item>
+        <item>pericardial friction rub</item>
+        <item>phonophobia</item>
+        <item>photophobia</item>
+
+
+
+        <item>pin point pupils</item>
+        <item>pleuritic pain</item>
+        <item>pneumatouria</item>
+        <item>polydypsia</item>
+        <item>polymyalgia</item>
+        <item>polyuria</item>
+        <item>posturing</item>
+        <item>presence of q wave</item>
+        <item>pressure chest</item>
+        <item>previous pregnancies</item>
+        <item>primigravida</item>
+        <item>prodrome</item>
+        <item>productive cough</item>
+        <item>projectile vomiting</item>
+        <item>prostatism</item>
+        <item>proteinemia</item>
+        <item>pruritus</item>
+        <item>pulsus paradoxus</item>
+        <item>pustule</item>
+        <item>qt interval prolonged</item>
+        <item>r wave feature</item>
+        <item>rale</item>
+        <item>rambling speech</item>
+        <item>redness</item>
+        <item>renal angle tenderness</item>
+        <item>retropulsion</item>
+        <item>rhonchus</item>
+        <item>rolling of eyes</item>
+        <item>room spinning</item>
+        <item>satiety early</item>
+        <item>scar tissue</item>
+        <item>scleral icterus</item>
+        <item>sedentary</item>
+        <item>seizure</item>
+        <item>sensory discomfort</item>
+        <item>shooting pain</item>
+        <item>shortness of breath</item>
+        <item>side pain</item>
+        <item>sinus rhythm</item>
+        <item>sleeplessness</item>
+        <item>sleepy</item>
+        <item>slowing of urinary stream</item>
+        <item>sneeze</item>
+        <item>sniffle</item>
+        <item>snore</item>
+        <item>snuffle</item>
+        <item>sore to touch</item>
+        <item>spasm</item>
+        <item>speech slurred</item>
+        <item>spontaneous rupture of membranes</item>
+        <item>sputum purulent</item>
+        <item>st segment depression</item>
+        <item>st segment elevation</item>
+        <item>Stahlis line</item>
+        <item>stiffness</item>
+        <item>stool color yellow</item>
+        <item>stridor</item>
+        <item>suicidal</item>
+        <item>superimposition</item>
+        <item>sweat</item>
+        <item>sweating increased</item>
+        <item>swelling</item>
+        <item>symptom aggravating factors</item>
+        <item>syncope</item>
+        <item>systolic ejection murmur</item>
+        <item>systolic murmur</item>
+        <item>t wave inverted</item>
+        <item>tachypnea</item>
+        <item>terrify</item>
+        <item>thicken</item>
+        <item>throat sore</item>
+        <item>tinnitus</item>
+        <item>tired</item>
+        <item>titubation</item>
+        <item>tonic seizures</item>
+        <item>transaminitis</item>
+        <item>tremor</item>
+        <item>tremor resting</item>
+        <item>tumor cell invasion</item>
+        <item>unable to concentrate</item>
+        <item>unconscious state</item>
+        <item>uncoordination</item>
+        <item>underweight</item>
+        <item>unhappy</item>
+        <item>unresponsiveness</item>
+        <item>unsteady gait</item>
+        <item>unwell</item>
+        <item>urge incontinence</item>
+        <item>urgency of micturition</item>
+        <item>urinary hesitation</item>
+        <item>verbal auditory hallucinations</item>
+        <item>vertigo</item>
+        <item>vision blurred</item>
+        <item>vomiting</item>
+        <item>weepiness</item>
+        <item>weight gain</item>
+        <item>welt</item>
+        <item>wheelchair bound</item>
+        <item>wheezing</item>
+        <item>withdraw</item>
+        <item>worry</item>
+        <item>yellow sputum</item>
+
+    </string-array>
+</resources>
