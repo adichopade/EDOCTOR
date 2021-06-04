@@ -6,7 +6,7 @@ Click==7.0
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
-Django==2.2.6
+Django==2.2.21
 entrypoints==0.3
 Flask==1.1.1
 ipykernel==5.1.2
